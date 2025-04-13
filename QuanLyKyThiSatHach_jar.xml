@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="QuanLyDoiTuongDacBiet:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/QuanLyDoiTuongDacBiet_jar</output-path>
-    <root id="archive" name="QuanLyDoiTuongDacBiet.jar">
+  <artifact type="jar" name="QuanLyKyThiSatHach:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuanLyKyThiSatHach_jar</output-path>
+    <root id="archive" name="QuanLyKyThiSatHach.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="QuanLyDoiTuongDacBiet" />
+      <element id="module-output" name="QuanLyKyThiSatHach" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.3.4/jaxb-impl-2.3.4.jar" path-in-jar="/" />
